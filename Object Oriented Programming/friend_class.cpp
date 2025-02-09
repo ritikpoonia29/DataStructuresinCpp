@@ -1,29 +1,28 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 class A{
     private:
-    int a, b;
-    public:
-    A()
-    {
-        a = 10;
-        b = 20;
-    }
+    int a = 10;
+    int b = 20;
+    
     friend class B;
+
 };
 
 class B{
     public:
-    void hell(A &x)
+
+    void display(A temp)
     {
-        cout<<x.a<<" "<<x.b;
+        cout<<temp.a<<" "<<temp.b<<endl;
     }
 };
 int main()
 {
-    A ap;
-    B bp;
+    A flag;
+    B flag2;
 
-    bp.hell(ap);
+    flag2.display(flag);
 }
