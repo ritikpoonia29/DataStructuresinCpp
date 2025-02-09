@@ -1,0 +1,1 @@
+{"name":"Local: largest_word_in_a_sentence","url":"c:\\Data\\C++\\Character Arrays\\largest_word_in_a_sentence.cpp","tests":[{"id":1630147831022,"input":"do or die","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Character Arrays\\largest_word_in_a_sentence.cpp","group":"local","local":true}

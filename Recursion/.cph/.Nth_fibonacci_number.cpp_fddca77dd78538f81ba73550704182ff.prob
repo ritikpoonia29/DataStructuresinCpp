@@ -1,0 +1,1 @@
+{"name":"Local: Nth_fibonacci_number","url":"c:\\Data\\C++\\Recursion\\Nth_fibonacci_number.cpp","tests":[{"id":1631649901139,"input":"5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Recursion\\Nth_fibonacci_number.cpp","group":"local","local":true}

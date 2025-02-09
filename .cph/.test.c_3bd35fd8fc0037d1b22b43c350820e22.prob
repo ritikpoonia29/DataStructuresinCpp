@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Data\\C++\\test.c","tests":[{"id":1635339875732,"input":"Poonia","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\test.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: median_of_matrix","url":"c:\\Data\\C++\\2d Arrays\\median_of_matrix.cpp","tests":[{"id":1666792061520,"input":"4 4 3\n16 28 60 64\n22 41 63 91\n27 50 87 93 \n36 78 87 94","output":"27"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\2d Arrays\\median_of_matrix.cpp","group":"local","local":true}

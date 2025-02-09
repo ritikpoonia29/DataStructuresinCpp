@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.c": "c",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "sstream": "c",
+        "regex": "c",
+        "new": "cpp",
+        "climits": "cpp",
+        "array": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "shared_mutex": "cpp",
+        "tuple": "cpp",
+        "valarray": "cpp",
+        "stdbool.h": "c"
+    },
+    "workbench.colorTheme": "Dracula",
+    "workbench.preferredDarkColorTheme": "Kimbie Dark"
+}

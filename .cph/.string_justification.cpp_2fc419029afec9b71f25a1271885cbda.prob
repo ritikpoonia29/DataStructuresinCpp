@@ -1,0 +1,1 @@
+{"name":"Local: string_justification","url":"c:\\Data\\C++\\string_justification.cpp","tests":[{"id":1705863494218,"input":"7\nthis\nis\nan\nexample\nof\ntext\njustification\n16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\string_justification.cpp","group":"local","local":true}

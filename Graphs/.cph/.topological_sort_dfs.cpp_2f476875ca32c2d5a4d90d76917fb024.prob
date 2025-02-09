@@ -1,0 +1,1 @@
+{"name":"Local: topological_sort_dfs","url":"c:\\Data\\C++\\Graphs\\topological_sort_dfs.cpp","tests":[{"id":1663161632067,"input":"6 6\n2 3\n3 1\n4 0\n4 1\n5 0\n5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Graphs\\topological_sort_dfs.cpp","group":"local","local":true}

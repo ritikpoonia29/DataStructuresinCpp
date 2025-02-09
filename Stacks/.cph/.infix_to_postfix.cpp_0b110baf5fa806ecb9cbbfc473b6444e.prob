@@ -1,0 +1,1 @@
+{"name":"Local: infix_to_postfix","url":"c:\\Data\\C++\\Stacks\\infix_to_postfix.cpp","tests":[{"id":1658166898082,"input":"(a-b/c)*(a/k-l)","output":"abc/-ak/l-*"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Stacks\\infix_to_postfix.cpp","group":"local","local":true}

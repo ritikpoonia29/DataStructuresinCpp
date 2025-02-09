@@ -1,0 +1,1 @@
+{"name":"Local: Balanced_Parenthesis","url":"c:\\Data\\C++\\Stacks\\Balanced_Parenthesis.cpp","tests":[{"id":1658256618296,"input":"(","output":"The parenthesis are not balanced"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Stacks\\Balanced_Parenthesis.cpp","group":"local","local":true}

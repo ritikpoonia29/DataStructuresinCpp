@@ -1,0 +1,1 @@
+{"name":"Local: Two_Pointer_Algorithm","url":"c:\\Data\\C++\\Challenges\\Two_Pointer_Algorithm.cpp","tests":[{"id":1658917397355,"input":"5 19\n6 8 3 9 7","output":"3 7 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Challenges\\Two_Pointer_Algorithm.cpp","group":"local","local":true}

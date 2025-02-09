@@ -1,0 +1,1 @@
+{"name":"Local: cycle_detection_using_dfs","url":"c:\\Data\\C++\\Graphs\\cycle_detection_using_dfs.cpp","tests":[{"id":1662705467191,"input":"8 7\n0 1\n1 2\n2 3\n3 4\n4 5\n4 7\n5 6","output":"Cycle is not present"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Graphs\\cycle_detection_using_dfs.cpp","group":"local","local":true}

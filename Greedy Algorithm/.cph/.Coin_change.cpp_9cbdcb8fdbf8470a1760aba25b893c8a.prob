@@ -1,0 +1,1 @@
+{"name":"Local: Coin_change","url":"c:\\Data\\C++\\Greedy Algorithm\\Coin_change.cpp","tests":[{"id":1661020611784,"input":"10\n2000 500 200 100 50 20 10 5 2 1\n273","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Greedy Algorithm\\Coin_change.cpp","group":"local","local":true}

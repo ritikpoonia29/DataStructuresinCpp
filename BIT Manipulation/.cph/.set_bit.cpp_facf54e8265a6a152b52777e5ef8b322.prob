@@ -1,0 +1,1 @@
+{"name":"Local: set_bit","url":"c:\\Data\\C++\\BIT Manipulation\\set_bit.cpp","tests":[{"id":1631096499264,"input":"5\n1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\BIT Manipulation\\set_bit.cpp","group":"local","local":true}

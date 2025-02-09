@@ -1,0 +1,1 @@
+{"name":"Local: factorial_knapsack","url":"c:\\Data\\C++\\Greedy Algorithm\\factorial_knapsack.cpp","tests":[{"id":1661533957313,"input":"5\n20\n21 7\n24 4\n12 6\n40 5\n30 6","output":"109"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Greedy Algorithm\\factorial_knapsack.cpp","group":"local","local":true}

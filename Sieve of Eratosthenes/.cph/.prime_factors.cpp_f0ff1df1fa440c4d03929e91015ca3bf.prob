@@ -1,0 +1,1 @@
+{"name":"Local: prime_factors","url":"c:\\Data\\C++\\Sieve of Eratosthenes\\prime_factors.cpp","tests":[{"id":1631478509356,"input":"49","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Sieve of Eratosthenes\\prime_factors.cpp","group":"local","local":true}

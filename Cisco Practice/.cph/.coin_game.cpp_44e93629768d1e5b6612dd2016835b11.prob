@@ -1,0 +1,1 @@
+{"name":"Local: coin_game","url":"c:\\Data\\C++\\Cisco Practice\\coin_game.cpp","tests":[{"id":1693722992816,"input":"5\n10 8 -25 8 6","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Cisco Practice\\coin_game.cpp","group":"local","local":true}

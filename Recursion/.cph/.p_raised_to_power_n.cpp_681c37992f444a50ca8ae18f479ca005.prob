@@ -1,0 +1,1 @@
+{"name":"Local: p_raised_to_power_n","url":"c:\\Data\\C++\\Recursion\\p_raised_to_power_n.cpp","tests":[{"id":1631646357887,"input":"2 3","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Recursion\\p_raised_to_power_n.cpp","group":"local","local":true}

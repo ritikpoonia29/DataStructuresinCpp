@@ -1,0 +1,1 @@
+{"name":"Local: positive_prefix_sum","url":"c:\\Data\\C++\\Ritesh\\positive_prefix_sum.cpp","tests":[{"id":1662643523057,"input":"4\n-6 3 4 -10","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Ritesh\\positive_prefix_sum.cpp","group":"local","local":true}

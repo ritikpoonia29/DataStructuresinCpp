@@ -1,0 +1,1 @@
+{"name":"Local: prefix_expression_evalutaon","url":"c:\\Data\\C++\\Stacks\\prefix_expression_evalutaon.cpp","tests":[{"id":1658140048982,"input":"-+7*45+20","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Stacks\\prefix_expression_evalutaon.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: missing","url":"c:\\Data\\C++\\Ritesh\\missing.cpp","tests":[{"id":1665827182986,"input":"5\n2 234 22 29 21\n234 21 29 2 \n234 2 29","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Ritesh\\missing.cpp","group":"local","local":true}

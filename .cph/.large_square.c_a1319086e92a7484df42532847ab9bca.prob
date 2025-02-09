@@ -1,0 +1,1 @@
+{"name":"Local: large_square","url":"c:\\Data\\C++\\large_square.c","tests":[{"id":1629213212564,"input":"2\n4 2\n5 3","output":"2\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\large_square.c","group":"local","local":true}

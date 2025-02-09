@@ -1,0 +1,1 @@
+{"name":"Local: quicksort","url":"c:\\Data\\C++\\Programs\\Arrays\\Sorting\\quicksort.cpp","tests":[{"id":1680541068348,"input":"6\n5 4 7 8 1 2","output":"1 2 4 5 7 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Programs\\Arrays\\Sorting\\quicksort.cpp","group":"local","local":true}

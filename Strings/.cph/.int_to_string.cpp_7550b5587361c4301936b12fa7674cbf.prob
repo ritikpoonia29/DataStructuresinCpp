@@ -1,0 +1,1 @@
+{"name":"Local: int_to_string","url":"c:\\Data\\C++\\Strings\\int_to_string.cpp","tests":[{"id":1630687145788,"input":"786","output":"7862"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Strings\\int_to_string.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: kth_smallest_no","url":"c:\\Data\\C++\\2d Arrays\\kth_smallest_no.cpp","tests":[{"id":1666865014844,"input":"4 4 7\n10 20 30 40\n15 25 35 45\n24 29 37 48\n32 33 39 50","output":"27"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\2d Arrays\\kth_smallest_no.cpp","group":"local","local":true}

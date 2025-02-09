@@ -1,0 +1,1 @@
+{"name":"Local: make_palindrome","url":"c:\\Data\\C++\\Cisco Practice\\make_palindrome.cpp","tests":[{"id":1693725433273,"input":"abcfe","output":"fcba"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Cisco Practice\\make_palindrome.cpp","group":"local","local":true}

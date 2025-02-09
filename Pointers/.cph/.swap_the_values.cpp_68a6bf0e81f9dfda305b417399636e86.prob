@@ -1,0 +1,1 @@
+{"name":"Local: swap_the_values","url":"c:\\Data\\C++\\Pointers\\swap_the_values.cpp","tests":[{"id":1630406676368,"input":"7\n8","output":"8\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Pointers\\swap_the_values.cpp","group":"local","local":true}

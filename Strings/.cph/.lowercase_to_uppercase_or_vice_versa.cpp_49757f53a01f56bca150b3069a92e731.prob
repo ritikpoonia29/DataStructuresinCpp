@@ -1,0 +1,1 @@
+{"name":"Local: lowercase_to_uppercase_or_vice_versa","url":"c:\\Data\\C++\\Strings\\lowercase_to_uppercase_or_vice_versa.cpp","tests":[{"id":1630786395709,"input":"RITIKPOONIA","output":"ritikpoonia"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Strings\\lowercase_to_uppercase_or_vice_versa.cpp","group":"local","local":true}

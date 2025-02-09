@@ -1,0 +1,1 @@
+{"name":"Local: _query_prblm","url":"c:\\Data\\C++\\Interview Series\\69\\_query_prblm.cpp","tests":[{"id":1664114191484,"input":"1\n5\n3\n1 1 3 4 3\n0 2 2\n0 2 1\n0 4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Interview Series\\69\\_query_prblm.cpp","group":"local","local":true}

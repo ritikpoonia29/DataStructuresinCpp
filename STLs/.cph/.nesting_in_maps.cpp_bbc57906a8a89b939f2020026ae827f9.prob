@@ -1,0 +1,1 @@
+{"name":"Local: nesting_in_maps","url":"c:\\Data\\C++\\STLs\\nesting_in_maps.cpp","tests":[{"id":1647198487353,"input":"3\ne f 2\n7 8\na b 4\n1 2 3 4\nc d 3\n4 5 6","output":"a b\n4\n1 2 3 4\nc d\n3\n4 5 6\ne f\n2\n7 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\STLs\\nesting_in_maps.cpp","group":"local","local":true}

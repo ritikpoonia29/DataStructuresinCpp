@@ -1,0 +1,1 @@
+{"name":"Local: frequency_count","url":"c:\\Data\\C++\\frequency_count.cpp","tests":[{"id":1693912583103,"input":"10\n1 2 3 3 4 1 4 5 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\frequency_count.cpp","group":"local","local":true}

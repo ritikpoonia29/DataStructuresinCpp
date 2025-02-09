@@ -1,0 +1,1 @@
+{"name":"Local: merge_k_sorted_arrays","url":"c:\\Data\\C++\\Heaps\\merge_k_sorted_arrays.cpp","tests":[{"id":1659886741651,"input":"3\n4 5 6 1 2 3 7 8 9","output":"1 2 3 4 5 6 7 8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Heaps\\merge_k_sorted_arrays.cpp","group":"local","local":true}

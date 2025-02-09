@@ -1,0 +1,1 @@
+{"name":"Local: Maximum_sum_Subarray","url":"c:\\Data\\C++\\Challenges\\Maximum_sum_Subarray.cpp","tests":[{"id":1659298294050,"input":"6 3 24\n7 5 4 6 8 9","output":"23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Challenges\\Maximum_sum_Subarray.cpp","group":"local","local":true}

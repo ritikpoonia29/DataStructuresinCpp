@@ -1,0 +1,1 @@
+{"name":"Local: n_meetings","url":"c:\\Data\\C++\\Greedy Algorithm\\n_meetings.cpp","tests":[{"id":1661972268561,"input":"3\n10 12 20\n20 25 30","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Greedy Algorithm\\n_meetings.cpp","group":"local","local":true}

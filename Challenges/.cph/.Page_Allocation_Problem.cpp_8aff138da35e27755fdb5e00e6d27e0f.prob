@@ -1,0 +1,1 @@
+{"name":"Local: Page_Allocation_Problem","url":"c:\\Data\\C++\\Challenges\\Page_Allocation_Problem.cpp","tests":[{"id":1657955887731,"input":"4\n2\n10 20 30 40","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Challenges\\Page_Allocation_Problem.cpp","group":"local","local":true}

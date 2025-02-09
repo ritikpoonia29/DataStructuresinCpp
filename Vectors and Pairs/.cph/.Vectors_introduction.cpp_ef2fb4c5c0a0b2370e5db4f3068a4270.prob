@@ -1,0 +1,1 @@
+{"name":"Local: Vectors_introduction","url":"c:\\Data\\C++\\Vectors and Pairs\\Vectors_introduction.cpp","tests":[{"id":1635448550341,"input":"","output":"1 2 3\n1 2 3\n1 2 3\n1 2\n5 5 5\n1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Vectors and Pairs\\Vectors_introduction.cpp","group":"local","local":true}

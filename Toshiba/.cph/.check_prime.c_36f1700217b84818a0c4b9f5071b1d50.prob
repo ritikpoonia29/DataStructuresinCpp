@@ -1,0 +1,1 @@
+{"name":"Local: check_prime","url":"c:\\Data\\C++\\Toshiba\\check_prime.c","tests":[{"id":1688733562087,"input":"100","output":"Not Prime"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Toshiba\\check_prime.c","group":"local","local":true}

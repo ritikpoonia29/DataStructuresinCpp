@@ -1,0 +1,1 @@
+{"name":"Local: reverse_a_string","url":"c:\\Data\\C++\\Recursion\\reverse_a_string.cpp","tests":[{"id":1631789404991,"input":"DHRUV","output":"VURHD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Recursion\\reverse_a_string.cpp","group":"local","local":true}

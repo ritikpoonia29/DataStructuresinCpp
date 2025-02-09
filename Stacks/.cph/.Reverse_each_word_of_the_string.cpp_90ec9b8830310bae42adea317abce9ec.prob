@@ -1,0 +1,1 @@
+{"name":"Local: Reverse_each_word_of_the_string","url":"c:\\Data\\C++\\Stacks\\Reverse_each_word_of_the_string.cpp","tests":[{"id":1658863545931,"input":"i.am.a.good.boy","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Stacks\\Reverse_each_word_of_the_string.cpp","group":"local","local":true}

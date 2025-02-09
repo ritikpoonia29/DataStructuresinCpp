@@ -1,0 +1,1 @@
+{"name":"Local: Largest_Min_Distance","url":"c:\\Data\\C++\\Challenges\\Largest_Min_Distance.cpp","tests":[{"id":1657950099014,"input":"5\n3\n1 2 8 4 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Challenges\\Largest_Min_Distance.cpp","group":"local","local":true}

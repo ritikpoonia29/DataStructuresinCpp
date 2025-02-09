@@ -1,0 +1,1 @@
+{"name":"Local: Recurring_strings","url":"c:\\Data\\C++\\Ritesh\\Recurring_strings.cpp","tests":[{"id":1662787350488,"input":"6\nabcd accd acbd abcd accd acbd\naccd","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Ritesh\\Recurring_strings.cpp","group":"local","local":true}

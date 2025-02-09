@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Data\\C++\\Vectors and Pairs\\test.cpp","tests":[{"id":1635678076818,"input":"3\n3\n5\n1073","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Vectors and Pairs\\test.cpp","group":"local","local":true}

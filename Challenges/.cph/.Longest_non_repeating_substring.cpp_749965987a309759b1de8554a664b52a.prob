@@ -1,0 +1,1 @@
+{"name":"Local: Longest_non_repeating_substring","url":"c:\\Data\\C++\\Challenges\\Longest_non_repeating_substring.cpp","tests":[{"id":1658949393249,"input":"abcdeefgh","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Challenges\\Longest_non_repeating_substring.cpp","group":"local","local":true}

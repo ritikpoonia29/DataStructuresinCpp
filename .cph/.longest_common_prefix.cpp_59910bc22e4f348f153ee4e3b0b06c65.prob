@@ -1,0 +1,1 @@
+{"name":"Local: longest_common_prefix","url":"c:\\Data\\C++\\longest_common_prefix.cpp","tests":[{"id":1693982100585,"input":"8 6\n12 23 34 45 56 67 78 89\n23 11 45 56 99 78","output":"gek"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\longest_common_prefix.cpp","group":"local","local":true}

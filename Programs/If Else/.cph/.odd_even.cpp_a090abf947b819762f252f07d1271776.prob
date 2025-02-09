@@ -1,0 +1,1 @@
+{"name":"Local: odd_even","url":"c:\\Data\\C++\\Programs\\If Else\\odd_even.cpp","tests":[{"id":1631047291409,"input":"898","output":"Enter the value of n\nThe given no is even"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Programs\\If Else\\odd_even.cpp","group":"local","local":true}

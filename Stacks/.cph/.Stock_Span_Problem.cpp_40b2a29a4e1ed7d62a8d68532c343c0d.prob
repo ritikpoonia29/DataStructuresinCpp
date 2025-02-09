@@ -1,0 +1,1 @@
+{"name":"Local: Stock_Span_Problem","url":"c:\\Data\\C++\\Stacks\\Stock_Span_Problem.cpp","tests":[{"id":1658904436774,"input":"100 80 60 70 60 75 85","output":"1 1 1 2 1 4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Stacks\\Stock_Span_Problem.cpp","group":"local","local":true}

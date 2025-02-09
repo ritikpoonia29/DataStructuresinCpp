@@ -1,0 +1,1 @@
+{"name":"Local: balanced _parentheses","url":"c:\\Data\\C++\\STLs\\balanced _parentheses.cpp","tests":[{"id":1647540615889,"input":"3\n{[()]}\n{[(])}\n{{[[(())]]}}","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\STLs\\balanced _parentheses.cpp","group":"local","local":true}

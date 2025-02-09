@@ -1,0 +1,1 @@
+{"name":"Local: folder_name_game","url":"c:\\Data\\C++\\Cisco Practice\\folder_name_game.cpp","tests":[{"id":1693724409674,"input":"5\nhello\nhi\nritik\nritik\nritik","output":"hello\nhi\nritik\nritik1\nritik2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Cisco Practice\\folder_name_game.cpp","group":"local","local":true}

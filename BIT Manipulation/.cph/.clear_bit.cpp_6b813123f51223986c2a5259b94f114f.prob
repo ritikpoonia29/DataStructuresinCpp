@@ -1,0 +1,1 @@
+{"name":"Local: clear_bit","url":"c:\\Data\\C++\\BIT Manipulation\\clear_bit.cpp","tests":[{"id":1631097045035,"input":"11\n3","output":"3"},{"id":1631097219435,"input":"43\n3","output":"35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\BIT Manipulation\\clear_bit.cpp","group":"local","local":true}

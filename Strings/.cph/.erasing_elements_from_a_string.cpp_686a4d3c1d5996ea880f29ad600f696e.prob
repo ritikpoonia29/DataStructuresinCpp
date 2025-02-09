@@ -1,0 +1,1 @@
+{"name":"Local: erasing_elements_from_a_string","url":"c:\\Data\\C++\\Strings\\erasing_elements_from_a_string.cpp","tests":[{"id":1630659410380,"input":"Ritcoik","output":"Ritik"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Strings\\erasing_elements_from_a_string.cpp","group":"local","local":true}

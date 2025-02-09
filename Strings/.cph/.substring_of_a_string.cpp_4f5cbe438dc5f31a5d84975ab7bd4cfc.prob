@@ -1,0 +1,1 @@
+{"name":"Local: substring_of_a_string","url":"c:\\Data\\C++\\Strings\\substring_of_a_string.cpp","tests":[{"id":1630686594774,"input":"ritikkumarpoonia","output":"kumar"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Strings\\substring_of_a_string.cpp","group":"local","local":true}

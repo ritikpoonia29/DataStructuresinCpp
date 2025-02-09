@@ -1,0 +1,1 @@
+{"name":"Local: spiral_traverse","url":"c:\\Data\\C++\\spiral_traverse.cpp","tests":[{"id":1693911684040,"input":"5 4\n1 2 3 4\n5 6 7 8\n9 10 11 12\n13 14 15 16\n17 18 19 20","output":"1 2 3 4\n5 6 7 8\n9 10 11 12\n13 14 15 16\n17 18 19 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\spiral_traverse.cpp","group":"local","local":true}

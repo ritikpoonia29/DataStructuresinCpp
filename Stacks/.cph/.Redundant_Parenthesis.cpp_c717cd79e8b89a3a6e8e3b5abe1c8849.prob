@@ -1,0 +1,1 @@
+{"name":"Local: Redundant_Parenthesis","url":"c:\\Data\\C++\\Stacks\\Redundant_Parenthesis.cpp","tests":[{"id":1658862839729,"input":"(a+b)","output":"Non Redundant Parenthesis"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Stacks\\Redundant_Parenthesis.cpp","group":"local","local":true}

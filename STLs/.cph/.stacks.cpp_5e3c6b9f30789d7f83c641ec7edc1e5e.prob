@@ -1,0 +1,1 @@
+{"name":"Local: stacks","url":"c:\\Data\\C++\\STLs\\stacks.cpp","tests":[{"id":1647538032640,"input":"5\n1 2 3 4 5","output":"5\n4\n3\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\STLs\\stacks.cpp","group":"local","local":true}

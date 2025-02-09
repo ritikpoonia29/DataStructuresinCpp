@@ -1,0 +1,1 @@
+{"name":"Local: decimal_to_binary","url":"c:\\Data\\C++\\Programs\\Functions\\decimal_to_binary.cpp","tests":[{"id":1625166653309,"input":"10","output":"1010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data\\C++\\Programs\\Functions\\decimal_to_binary.cpp","group":"local","local":true}
