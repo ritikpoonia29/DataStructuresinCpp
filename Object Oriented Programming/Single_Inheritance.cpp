@@ -2,6 +2,7 @@
 using namespace std;
 
 class child{
+    int z;
     public:
     int x;
 
@@ -19,6 +20,7 @@ void displayParent()
 {
     cout<<"Parent: "<<y<<endl;
     cout<<"Child: "<<x<<endl;
+    cout<<"Child: "<<z<<endl;
     displayChild();
 }
 };
