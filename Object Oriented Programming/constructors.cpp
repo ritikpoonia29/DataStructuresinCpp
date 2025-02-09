@@ -1,44 +1,33 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class temp{
-    public: 
-    // Data Members
-    int x;
-    string y;
-
-    // Parameterized Constructor
-    temp(int a, string b)
+class A{
+    public:
+    int a;
+    int b;
+    public:
+    A()
     {
-        x = a;
-        y = b;
+        // Default Constructor     
     }
 
-    // Function to perform some operation
-    void addition()
+    A(int x, int y)
     {
-        // x = x+10;
-        x+=10; // It is same as x = x+10;
+        a = x;
+        b = y;
+        // Parameterized constructor;
     }
 
-    // One more function to display the results
-    void display()
+    A(A &i)
     {
-        cout<<"Value of x is: "<<x<<endl;
-        cout<<"Value of y is: "<<y<<endl;
+        a = i.a;
+        b = i.b;
     }
 };
 
-
 int main()
 {
-    // Creation of object
-    temp t(30, "ABC"); // it will call paramterized constructor.
-
-    // update the data member
-
-    t.x = 50;
-
-    t.addition();
-    t.display();
+    A temp(10, 20);
+    A flag(temp);
+    cout<<flag.a<<" "<<flag.b<<endl;
 }
